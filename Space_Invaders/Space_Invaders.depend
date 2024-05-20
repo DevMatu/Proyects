@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1714254536 source:c:\users\la caprichosa\desktop\utn - programacion\segundo cuatrimestre\labo ii\proyecto\space_invaders\main.cpp
+	<raylib.h>
+	"game.h"
+
+1714163247 c:\users\la caprichosa\desktop\utn - programacion\segundo cuatrimestre\labo ii\proyecto\space_invaders\spaceship.h
+	<raylib.h>
+	<vector>
+	"laser.h"
+
+1714163481 source:c:\users\la caprichosa\desktop\utn - programacion\segundo cuatrimestre\labo ii\proyecto\space_invaders\spaceship.cpp
+	"SpaceShip.h"
+
+1714257225 source:c:\users\la caprichosa\desktop\utn - programacion\segundo cuatrimestre\labo ii\proyecto\space_invaders\game.cpp
+	"game.h"
+	<iostream>
+
+1714254826 c:\users\la caprichosa\desktop\utn - programacion\segundo cuatrimestre\labo ii\proyecto\space_invaders\game.h
+	"SpaceShip.h"
+	"obstaculo.h"
+	"alien.h"
+
+1714164154 source:c:\users\la caprichosa\desktop\utn - programacion\segundo cuatrimestre\labo ii\proyecto\space_invaders\laser.cpp
+	"laser.h"
+	<iostream>
+
+1714160123 c:\users\la caprichosa\desktop\utn - programacion\segundo cuatrimestre\labo ii\proyecto\space_invaders\laser.h
+	<raylib.h>
+
+1714240710 source:c:\users\la caprichosa\desktop\utn - programacion\segundo cuatrimestre\labo ii\proyecto\space_invaders\bloque.cpp
+	"bloque.h"
+
+1714237784 c:\users\la caprichosa\desktop\utn - programacion\segundo cuatrimestre\labo ii\proyecto\space_invaders\bloque.h
+	<raylib.h>
+
+1714252786 c:\users\la caprichosa\desktop\utn - programacion\segundo cuatrimestre\labo ii\proyecto\space_invaders\obstaculo.h
+	<vector>
+	"bloque.h"
+
+1714252831 source:c:\users\la caprichosa\desktop\utn - programacion\segundo cuatrimestre\labo ii\proyecto\space_invaders\obstaculo.cpp
+	"obstaculo.h"
+
+1714258735 c:\users\la caprichosa\desktop\utn - programacion\segundo cuatrimestre\labo ii\proyecto\space_invaders\alien.h
+	<raylib.h>
+
+1714254254 source:c:\users\la caprichosa\desktop\utn - programacion\segundo cuatrimestre\labo ii\proyecto\space_invaders\alien.cpp
+	"alien.h"
+
+1715466179 source:c:\users\la caprichosa\documents\proyectos\space_invaders\alien.cpp
+	"alien.h"
+
+1715364140 c:\users\la caprichosa\documents\proyectos\space_invaders\alien.h
+	<raylib.h>
+
+1715365108 source:c:\users\la caprichosa\documents\proyectos\space_invaders\bloque.cpp
+	"bloque.h"
+
+1715364910 c:\users\la caprichosa\documents\proyectos\space_invaders\bloque.h
+	<raylib.h>
+
+1715959090 source:c:\users\la caprichosa\documents\proyectos\space_invaders\game.cpp
+	"game.h"
+	<iostream>
+	<fstream>
+
+1715959381 c:\users\la caprichosa\documents\proyectos\space_invaders\game.h
+	"SpaceShip.h"
+	"obstaculo.h"
+	"alien.h"
+	"mysteryship.h"
+
+1715959187 c:\users\la caprichosa\documents\proyectos\space_invaders\spaceship.h
+	<raylib.h>
+	<vector>
+	"laser.h"
+
+1715365155 c:\users\la caprichosa\documents\proyectos\space_invaders\laser.h
+	<raylib.h>
+
+1714252786 c:\users\la caprichosa\documents\proyectos\space_invaders\obstaculo.h
+	<vector>
+	"bloque.h"
+
+1715780337 source:c:\users\la caprichosa\documents\proyectos\space_invaders\laser.cpp
+	"laser.h"
+	<iostream>
+
+1715959783 source:c:\users\la caprichosa\documents\proyectos\space_invaders\main.cpp
+	<raylib.h>
+	<string>
+	"game.h"
+
+1714252831 source:c:\users\la caprichosa\documents\proyectos\space_invaders\obstaculo.cpp
+	"obstaculo.h"
+
+1715959352 source:c:\users\la caprichosa\documents\proyectos\space_invaders\spaceship.cpp
+	"SpaceShip.h"
+
+1715364508 c:\users\la caprichosa\documents\proyectos\space_invaders\mysteryship.h
+	<raylib.h>
+
+1715780176 source:c:\users\la caprichosa\documents\proyectos\space_invaders\mysteryship.cpp
+	<iostream>
+	"mysteryship.h"
+
